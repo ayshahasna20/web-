@@ -1,0 +1,430 @@
+Build a complete, premium, responsive personal website for **Aysha Hasna — Independent Digital Marketing Consultant in Kerala, India**.
+
+Use Next.js with the App Router, React, TypeScript, Tailwind CSS, and shadcn/ui components where appropriate. Use Lucide icons. Generate real, reusable components and working interactions. Do not create only a static design or a landing-page screenshot.
+
+## 1. DESIGN DIRECTION
+
+Create a modern, elegant, premium personal-brand website inspired by high-end independent consultants, creative studios, and contemporary SaaS landing pages.
+
+The website must feel personal, trustworthy, minimal, and conversion-focused.
+
+### Colour palette
+- Background: warm off-white `#FAF9F6`
+- Primary text: deep navy `#172B3A`
+- Accent: refined teal `#247C78`
+- Secondary background: light sage `#EAF1ED`
+- Body text: muted charcoal `#59636B`
+- Cards: white with subtle borders
+
+### Typography
+Use Manrope or Inter. Use bold, confident headlines, readable body text, generous line spacing, and clear visual hierarchy.
+
+### Visual style
+- Spacious layouts and balanced whitespace.
+- Large, editorial-style headings.
+- Rounded cards with subtle borders.
+- Soft shadows used sparingly.
+- Clean line icons.
+- Smooth scrolling and restrained entrance animations.
+- Subtle decorative graphics related to marketing analytics.
+- Beautiful mobile layouts with no horizontal overflow.
+
+Avoid generic templates, excessive gradients, bright neon colours, unnecessary glassmorphism, oversized rounded cards, and clutter.
+
+## 2. HEADER
+
+Create a sticky, responsive navigation bar.
+
+Logo:
+**AYSHA HASNA**
+Small subtitle: Digital Marketing Consultant
+
+Navigation:
+Home, About, Services, Process, Blog, Contact
+
+Right-side CTA:
+**Let's Talk**
+
+The CTA should open WhatsApp using the number +91 9778453099.
+
+On mobile, use a working hamburger menu.
+
+## 3. HERO SECTION
+
+Create a premium two-column hero section.
+
+Left column:
+
+Small uppercase eyebrow:
+INDEPENDENT DIGITAL MARKETING CONSULTANT · KERALA, INDIA
+
+Main H1:
+**Digital Marketing That Turns Attention Into Customers**
+
+Supporting paragraph:
+“I'm Aysha Hasna, an independent digital marketer in Kerala. I help small and local businesses build a stronger online presence, generate quality enquiries, and grow with clear, measurable strategies.”
+
+Primary button:
+**Book a Free Consultation**
+
+Secondary outlined button:
+**WhatsApp Me** with a WhatsApp icon.
+
+Both buttons must work. The consultation button should open a consultation enquiry form or a WhatsApp conversation with a prefilled message.
+
+Below the buttons, display four compact trust indicators:
+- Direct attention on every project
+- Malayalam & English content
+- Transparent monthly reports
+- Flexible, month-to-month engagement
+
+Right column:
+
+Build a distinctive visual composition using a professional workspace image placeholder and floating UI cards representing:
+- Social media engagement
+- Website traffic
+- Campaign performance
+- Marketing strategy
+
+Use subtle floating elements and decorative shapes. Keep the composition professional and restrained.
+
+If no real portrait is provided, do not fabricate a photo of Aysha. Use a tasteful marketing illustration or workspace image instead.
+
+## 4. ABOUT SECTION
+
+Use a two-column layout with a portrait placeholder or editorial visual on one side and text on the other.
+
+Eyebrow: GET TO KNOW ME
+
+H2:
+**Meet Aysha**
+
+Body:
+“I'm a digital marketing professional focused on helping Kerala businesses compete online. My approach is simple: understand your business, define a clear strategy, and execute it with consistency and care.
+
+Working with an individual consultant means you deal directly with the person planning and delivering your marketing, with no account managers in between and no diluted communication.”
+
+Add three small highlights:
+- Personal attention
+- Practical strategies
+- Clear communication
+
+Add a subtle link: “Explore My Services” that scrolls to the services section.
+
+Do not invent qualifications, awards, client numbers, or achievements.
+
+## 5. BUSINESS CHALLENGE SECTION
+
+Use a dark navy or soft sage background to create visual contrast.
+
+Eyebrow: THE REAL CHALLENGE
+
+H2:
+**Visibility Alone Doesn't Drive Revenue**
+
+Description:
+“Many businesses post regularly and gain views, yet struggle to convert that attention into enquiries and sales. The missing piece is usually a structured strategy that guides potential customers from first awareness to final purchase.
+
+I build that structure for you.”
+
+Create a clean, responsive marketing funnel visual with five stages:
+
+01 Awareness  
+02 Interest  
+03 Consideration  
+04 Conversion  
+05 Loyalty
+
+Represent each stage with a small icon, short label, and connecting lines. Use a vertical arrangement on mobile and a horizontal arrangement on desktop.
+
+## 6. SERVICES SECTION
+
+Eyebrow: WHAT I DO
+
+H2:
+**Digital Marketing Services Designed Around Your Business**
+
+Supporting text:
+“Practical marketing solutions that help you reach the right people, communicate your value, and generate meaningful business opportunities.”
+
+Create six service cards in a responsive three-column grid on desktop and a single-column layout on mobile.
+
+Each card must include a Lucide icon, service title, concise description, and a “Discuss Service” link that opens WhatsApp with a service-specific prefilled message.
+
+### Card 1 — Social Media Marketing
+“Strategic content planning, reels, captions, and creative posts that strengthen your brand and connect with the right audience.”
+
+### Card 2 — Paid Advertising
+“Targeted Meta and Google advertising campaigns with clear objectives, budget transparency, and regular performance reviews.”
+
+### Card 3 — Local SEO
+“Improve your local visibility through Google Business Profile optimisation, relevant website content, and local search strategies.”
+
+### Card 4 — Content Writing & Copywriting
+“Professional Malayalam and English content that communicates your brand's value and encourages customers to take action.”
+
+### Card 5 — Website Support
+“Clear, mobile-friendly websites with useful content, intuitive navigation, and strategically placed enquiry buttons.”
+
+### Card 6 — WhatsApp Marketing
+“WhatsApp Business catalogue setup, quick replies, customer communication workflows, and thoughtful follow-ups.”
+
+Use subtle card hover effects, consistent spacing, and clean icons.
+
+Below the grid, add:
+“Not sure which service you need?”
+
+Button: **Let's Find the Right Solution**
+
+## 7. WHY WORK WITH ME
+
+H2:
+**Personal Attention. Practical Strategy. Clear Communication.**
+
+Create a sophisticated list or five compact feature cards.
+
+**Direct Communication**  
+“You work directly with the person responsible for planning and managing your marketing.”
+
+**Tailored Strategy**  
+“Every marketing plan is shaped around your business, audience, goals, and resources.”
+
+**Cost-Efficient Approach**  
+“Work directly with an independent consultant without the additional agency overheads.”
+
+**Accountability**  
+“Understand your goals, review performance, and receive honest recommendations.”
+
+**Local Understanding**  
+“Marketing strategies that consider Kerala's audience, language preferences, local culture, and seasonal buying patterns.”
+
+## 8. MY PROCESS
+
+Eyebrow: HOW WE WORK TOGETHER
+
+H2:
+**A Clear Process From Planning to Growth**
+
+Create a visually attractive four-step timeline.
+
+01 — Discovery  
+“Understand your business, target audience, current challenges, and objectives.”
+
+02 — Strategy  
+“Develop a focused marketing plan with clear priorities, goals, and timelines.”
+
+03 — Execution  
+“Create content, launch campaigns, and manage the selected marketing channels.”
+
+04 — Reporting & Optimisation  
+“Review performance, identify opportunities, and refine the strategy based on results.”
+
+Use numbered markers and connecting lines. Stack the steps vertically on mobile.
+
+## 9. FEATURED BLOG SECTION
+
+Eyebrow: INSIGHTS & IDEAS
+
+H2:
+**Digital Marketing, Explained Simply**
+
+Supporting text:
+“Practical insights to help small businesses understand digital marketing and make better online decisions.”
+
+Create an editorial-style featured article card.
+
+Category: DIGITAL MARKETING
+
+Title:
+**What Does a Digital Marketer Do Exactly?**
+
+Excerpt:
+“A digital marketer helps a business get more customers through the internet. Discover how social media, paid ads, SEO, content, and WhatsApp can work together to grow a business.”
+
+Display:
+- 5 min read
+- A clean article thumbnail or marketing illustration
+- A “Read Article” button
+
+Create a dedicated blog article route at `/blog/what-does-a-digital-marketer-do` containing the article content supplied by the user. If that full article is not available in the current prompt context, create a clean article template ready for the content rather than inventing an unrelated article.
+
+Structure the blog so additional posts can be added later.
+
+## 10. FREE ONLINE PRESENCE AUDIT
+
+Create a prominent conversion section with a light sage background and a two-column layout.
+
+Left column:
+
+Eyebrow: YOUR NEXT STEP
+
+H2:
+**Get a Clear Picture of Your Online Presence**
+
+Text:
+“Receive a complimentary review of your Instagram, website, or Google Business Profile. You'll get a concise summary of strengths, gaps, and recommended priorities.”
+
+Add three benefits:
+- Identify opportunities for improvement
+- Understand your online visibility
+- Get clear recommendations for next steps
+
+Right column:
+
+Build a polished, accessible audit request form with:
+- Full name
+- Business name
+- Email or WhatsApp number
+- Website or social media URL
+- Main marketing challenge (optional dropdown)
+
+Submit button:
+**Request My Free Audit**
+
+Requirements:
+- Use React state or a suitable form library.
+- Validate required fields.
+- Display inline validation errors.
+- Show a success state only after successful submission.
+- Never pretend the form was submitted if there is no backend.
+- If no backend is configured, provide a working WhatsApp submission alternative.
+- Keep the form visually clean and mobile-friendly.
+
+## 11. FAQ SECTION
+
+H2:
+**Frequently Asked Questions**
+
+Use accessible accordion components from shadcn/ui.
+
+Question 1: What results can I expect, and how soon?
+
+Answer:
+“Results depend on your business, competition, budget, and chosen strategy. Social media and paid campaigns may show early performance indicators within 4–8 weeks, while SEO often takes 3–6 months or longer to show meaningful progress. We'll discuss realistic expectations before starting.”
+
+Question 2: Do you work with small businesses?
+
+Answer:
+“Yes. Small and local businesses are my primary focus. I'll help you identify practical marketing priorities that suit your business and resources.”
+
+Question 3: Is there a long-term contract?
+
+Answer:
+“Engagements are designed to be month-to-month, so continuing depends on your needs and the value delivered.”
+
+Question 4: Can you create content in Malayalam?
+
+Answer:
+“Yes. I create content in Malayalam, English, or a natural combination of both, depending on your audience.”
+
+Question 5: How do we communicate?
+
+Answer:
+“Communication is primarily through WhatsApp and scheduled calls, with regular performance updates and reporting.”
+
+## 12. FINAL CTA
+
+Create a bold, visually distinctive CTA section.
+
+H2:
+**Let's Discuss Your Growth Goals**
+
+Description:
+“Not sure where to start with digital marketing? Let's talk about your business, your challenges, and how the right strategy could help. No obligation, just a clear conversation.”
+
+Buttons:
+- Book a Free Consultation
+- WhatsApp Me
+
+Supporting text:
+“Practical advice. Personal attention. A strategy built around your business.”
+
+## 13. FOOTER
+
+Brand:
+**Aysha Hasna**
+Digital Marketing Consultant · Kerala, India
+
+Navigation:
+Home · About · Services · Blog · Contact
+
+Contact details:
+Phone/WhatsApp: +91 9778453099  
+Email: ayshabinmusthafa@gmail.com
+
+Social links:
+Instagram and Facebook.
+
+Use actual profile URLs only when supplied. If URLs are not supplied, use clearly marked placeholders in the code and do not link to invented profiles.
+
+Add:
+© 2026 Aysha Hasna. All rights reserved.
+
+Include Privacy Policy and Terms links only when the corresponding pages exist.
+
+## 14. WHATSAPP INTEGRATION
+
+Create a reusable WhatsApp CTA component.
+
+Use the WhatsApp click-to-chat format with the phone number `919778453099`.
+
+Each CTA should include a relevant prefilled message, URL-encoded correctly.
+
+Examples:
+- General: “Hi Aysha, I'd like to discuss digital marketing for my business.”
+- Consultation: “Hi Aysha, I'd like to book a free digital marketing consultation.”
+- Free audit: “Hi Aysha, I'd like to request a free online presence audit.”
+- Services: “Hi Aysha, I'd like to know more about your digital marketing services.”
+
+Use `https://wa.me/919778453099` with an encoded message query parameter.
+
+Open external WhatsApp links safely in a new tab where appropriate.
+
+## 15. TECHNICAL REQUIREMENTS
+
+- Next.js App Router
+- React and TypeScript
+- Tailwind CSS
+- shadcn/ui components
+- Lucide React icons
+- Reusable components for buttons, service cards, section headings, FAQs, and WhatsApp links
+- Responsive mobile-first design
+- Semantic HTML and accessible keyboard navigation
+- Working internal navigation
+- Smooth scrolling
+- Appropriate loading and error states
+- Optimised images using Next.js image practices where supported
+- SEO metadata using the Next.js Metadata API
+- Open Graph metadata
+- Clean page titles and descriptions
+- Sitemap and robots.txt readiness
+- Good Core Web Vitals
+- No unnecessary external dependencies
+- No fake reviews, client logos, metrics, or testimonials
+
+Homepage SEO title:
+“Digital Marketing Freelancer in Kerala | Aysha Hasna”
+
+Homepage meta description:
+“Looking for a digital marketing freelancer in Kerala? Aysha Hasna helps small businesses with social media, paid ads, local SEO, content, and online growth.”
+
+Primary keyword themes:
+- Digital marketing freelancer in Kerala
+- Digital marketing consultant in Kerala
+- Digital marketing services for small businesses
+- Local SEO services
+- Social media marketing
+
+Use one H1 on the homepage, logical H2/H3 headings, descriptive alt text, and natural keyword placement.
+
+## 16. FINAL BUILD INSTRUCTIONS
+
+Generate the complete working website now.
+
+Start with the homepage and implement every section described above. Ensure that the layout, typography, spacing, responsive behaviour, and visual polish are consistent throughout.
+
+Prioritise a premium visual result rather than a generic template. Make the website look finished even before real photographs are added.
+
+Use placeholder content only for missing profile URLs or unavailable integrations, and clearly indicate where configuration is required.
+
+Make the final result ready to preview and refine in v0.app.

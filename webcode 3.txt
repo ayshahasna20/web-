@@ -1,0 +1,278 @@
+Update my existing Aysha Hasna digital marketing website in v0.app. Do not rebuild the website from scratch. Preserve the existing design, layout, content, navigation, and royal blue and ivory colour theme.
+
+Brand colours:
+- Royal blue: #4169E1
+- Soft ivory: #FFFFED
+
+## Objective
+
+Create a main Services section on the homepage that displays only the eight service names. Each service name must be clickable and navigate to its corresponding detailed description on a dedicated Services page.
+
+Use Next.js App Router, React, TypeScript, Tailwind CSS, and Lucide icons, following the project's existing architecture.
+
+## 1. Homepage Services Section
+
+Section heading:
+**Services**
+
+Supporting text:
+“Explore digital marketing solutions designed to help your business grow, reach the right audience, and generate more enquiries.”
+
+Display the following eight service names only:
+
+1. Social Media Marketing
+2. Paid Ads
+3. Local SEO
+4. Content and Writing
+5. WhatsApp Marketing
+6. Website Help
+7. Branding and Design
+8. Reports
+
+### Design requirements
+
+- Display the services in an elegant, responsive grid with four columns on large desktop screens, two columns on tablets, and one or two columns on mobile, depending on available width.
+- Each item should display only its service name and a subtle arrow icon.
+- Do not display the long descriptions, benefits, deliverables, or target audiences in the homepage service cards.
+- Make the entire card clickable.
+- Give each service a unique URL pointing to its corresponding section on the Services page.
+- Use a clean ivory background, royal blue accents, dark navy text, and subtle borders.
+- Add a gentle hover effect: slightly change the border colour to #4169E1 and move the arrow a few pixels to the right.
+- Ensure visible keyboard focus and accessible link labels.
+- Keep the section visually consistent with the existing website.
+
+Suggested links:
+- `/services#social-media-marketing`
+- `/services#paid-ads`
+- `/services#local-seo`
+- `/services#content-and-writing`
+- `/services#whatsapp-marketing`
+- `/services#website-help`
+- `/services#branding-and-design`
+- `/services#reports`
+
+## 2. Dedicated Services Page
+
+Create a page at `/services` containing all eight detailed service descriptions.
+
+Add a page heading:
+
+**Digital Marketing Services for Your Business**
+
+Introductory text:
+
+“Every business has different goals. I help you choose practical digital marketing solutions based on your audience, needs, and budget.”
+
+Display all eight services in a vertically organised layout with clear headings, descriptions, benefits, deliverables, and suitable business types.
+
+Use the exact section IDs specified in the homepage links so clicking a service scrolls to the correct description.
+
+### Service 1: Social Media Marketing
+
+**What it is**
+
+I create and publish reels, posters, and stories for your business on Instagram and Facebook.
+
+**Why it helps**
+
+People are more likely to remember businesses they see regularly. Consistent, relevant content helps build familiarity and keeps your brand in mind when customers need your products or services.
+
+**What you get**
+- A monthly content plan
+- Reels and posters in Malayalam, English, or both
+- Posting and social media page management
+- A simple monthly performance report
+
+**Good for**
+
+Shops, restaurants, clinics, and businesses that sell directly to consumers.
+
+### Service 2: Paid Ads
+
+**Platforms:** Facebook, Instagram, and Google
+
+**What it is**
+
+I set up paid advertising campaigns to help your business reach relevant audiences, including people in your service area who may be interested in your products or services.
+
+**Why it helps**
+
+Paid ads can help you reach potential customers more quickly than relying on organic content alone. Results depend on your offer, budget, audience, and campaign quality.
+
+**What you get**
+- Ad campaign setup and audience selection
+- Ad creatives and copywriting
+- Clear tracking of advertising spend
+- Regular campaign monitoring and optimisation
+
+**Good for**
+
+Businesses looking to generate enquiries, promote offers, or introduce a new product or service.
+
+### Service 3: Local SEO
+
+**Platforms:** Google Search and Google Maps
+
+**What it is**
+
+I help improve your business's visibility when nearby customers search Google for relevant products or services.
+
+**Why it helps**
+
+Someone searching for “dentist near me” or “AC repair in Kochi” may already be looking for a service. Better local visibility can help potential customers discover and contact your business.
+
+**What you get**
+- Google Business Profile setup or optimisation
+- Research into relevant local search terms
+- Guidance on collecting genuine customer reviews
+- Basic website SEO improvements
+
+**Good for**
+
+Shops, clinics, repair services, tutors, and home service providers.
+
+**Important note:** SEO takes time. Meaningful improvements often take three to six months or longer, depending on competition and the website's current condition. Never guarantee rankings.
+
+### Service 4: Content and Writing
+
+**What it is**
+
+I create marketing content for your business, including reels, posters, website copy, and advertising text.
+
+**Why it helps**
+
+Good content helps people stop scrolling, understand what you offer, and know what action to take next.
+
+**What you get**
+- Reel ideas and scripts
+- Posters and carousel posts
+- Website copy and advertising text
+- Malayalam and English content tailored to your brand
+
+**Good for**
+
+Businesses that have a useful product or service but struggle to explain its value clearly.
+
+### Service 5: WhatsApp Marketing
+
+**What it is**
+
+I help you organise WhatsApp Business so customers can find information, ask questions, and enquire more easily.
+
+**Why it helps**
+
+Many customers prefer messaging a business before making a purchase. Clear communication and timely follow-ups can make the buying process easier.
+
+**What you get**
+- WhatsApp Business profile and product catalogue setup
+- Quick replies and welcome messages
+- A simple customer follow-up plan
+- WhatsApp buttons for your website and advertisements
+
+**Good for**
+
+Retail shops, food businesses, and service providers that receive enquiries through chat.
+
+Follow applicable messaging and consent requirements. Do not send unsolicited promotional messages.
+
+### Service 6: Website Help
+
+**What it is**
+
+I help create or improve a simple, mobile-friendly website that explains your business clearly and makes it easy for visitors to contact you.
+
+**Why it helps**
+
+Potential customers often check a business website before deciding whether to enquire. A clear, trustworthy website can support their decision.
+
+**What you get**
+- Help with website structure and content
+- Mobile-friendly layouts
+- Clear contact and enquiry buttons
+- Basic on-page SEO guidance
+
+**Good for**
+
+Businesses that only have a social media page or need to improve an outdated website.
+
+Do not claim advanced development, hosting, or integrations are included unless they are actually offered.
+
+### Service 7: Branding and Design
+
+**What it is**
+
+I help your business develop a consistent visual identity through logo concepts, colours, typography, and social media design.
+
+**Why it helps**
+
+A consistent appearance makes your business look more professional and helps customers recognise your brand across different platforms.
+
+**What you get**
+- Logo and colour direction
+- Social media post templates
+- Brand voice and tagline ideas
+
+**Good for**
+
+New businesses and existing businesses that need a more consistent visual identity.
+
+### Service 8: Reports
+
+**What it is**
+
+I review your digital marketing performance to understand which activities are working and which need improvement.
+
+**Why it helps**
+
+Likes and views are only part of the picture. Metrics such as enquiries, website visits, conversions, and advertising costs help you make more informed marketing decisions.
+
+**What you get**
+- A simple monthly performance report
+- A review of important marketing metrics
+- Clear recommendations on what to keep, change, or stop
+
+**Good for**
+
+Businesses that want to understand the value of their marketing activities and make decisions based on performance data.
+
+## 3. CTA After Each Service
+
+At the end of each service section, include a compact button:
+
+**Discuss This Service**
+
+Each button should open WhatsApp using the existing business number `+91 9778453099` and a URL-encoded, service-specific message.
+
+Example:
+“Hi Aysha, I'm interested in Social Media Marketing for my business. Could we discuss my requirements?”
+
+Change the service name appropriately for each button.
+
+Use the WhatsApp click-to-chat format:
+`https://wa.me/919778453099?text=...`
+
+## 4. Navigation and Functionality
+
+- Keep the existing homepage navigation unchanged unless a Services link needs to be added.
+- Make the homepage service cards navigate to the correct detailed service sections.
+- Ensure direct URLs such as `/services#local-seo` work when opened or refreshed.
+- Use semantic section IDs and appropriate scroll offset for the sticky header.
+- Make the layout fully responsive.
+- Ensure all links and buttons work.
+- Use reusable React components and a central service data array to avoid repeating code.
+- Preserve existing SEO metadata and add an appropriate title and meta description to the Services page.
+- Do not introduce a backend or unnecessary dependencies for this feature.
+
+Services page SEO title:
+“Digital Marketing Services in Kerala | Aysha Hasna”
+
+Services page meta description:
+“Explore social media marketing, paid ads, local SEO, content writing, WhatsApp marketing, website support, branding, and reporting with Aysha Hasna.”
+
+## 5. Final Instruction
+
+Implement these changes directly in the existing project. Keep the current royal blue `#4169E1` and ivory `#FFFFED` theme.
+
+The homepage must show only the eight service names in clickable cards. The full descriptions must appear on the dedicated `/services` page, and every homepage card must navigate to its matching detailed section.
+
+Do not remove, rewrite, or redesign unrelated website sections.

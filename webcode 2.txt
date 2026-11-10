@@ -1,0 +1,50 @@
+Update the entire Aysha Hasna digital marketing consultant website using this exact brand colour palette:
+
+- Primary royal blue: #4169E1
+- Main background soft ivory: #FFFFED
+
+### Design direction
+Create a premium, modern, elegant personal-brand website for an independent digital marketing consultant in Kerala. The website should look professional, creative, trustworthy, and visually distinctive.
+
+Use #FFFFED as the dominant background colour across the website. Use #4169E1 strategically for primary CTA buttons, navigation highlights, links, icons, section labels, decorative lines, active states, and important visual elements.
+
+### Colour distribution
+- Main page background: #FFFFED
+- Primary buttons: #4169E1 with white text
+- Main headings: deep navy #172554
+- Body text: dark slate #475569
+- Secondary sections: a very light blue tint such as #F0F4FF
+- Cards: #FFFFFF or #FFFFED with subtle blue-grey borders
+- Links and icons: #4169E1
+- Button hover state: a darker blue such as #3154C5
+- Footer: deep navy #172554 with soft ivory text and royal blue accents
+
+Use the exact two primary brand colours consistently. The additional colours should only support readability and visual hierarchy.
+
+### Hero section
+Create a spacious, premium hero with a soft ivory background, strong dark navy typography, and royal blue accents.
+
+Headline:
+“Digital Marketing That Turns Attention Into Customers”
+
+Highlight the words “Turns Attention Into Customers” in royal blue #4169E1.
+
+Include the introductory text:
+“I'm Aysha Hasna, an independent digital marketer in Kerala. I help small and local businesses build a stronger online presence, generate quality enquiries, and grow with clear, measurable strategies.”
+
+Add a solid royal blue primary CTA labelled “Book a Free Consultation” and an outlined secondary CTA labelled “WhatsApp Me”.
+
+Use elegant marketing analytics visuals with royal blue highlights on the right side.
+
+### Remaining website
+Apply the same palette consistently to the About, Services, Why Work With Me, My Process, Blog, Free Audit, FAQ, CTA, and Footer sections.
+
+Use royal blue service icons, fine blue borders, subtle blue-tinted backgrounds, and restrained hover animations.
+
+Keep the website clean and spacious. Do not make every section royal blue. Use ivory as the dominant background and reserve royal blue for meaningful emphasis.
+
+Ensure all buttons have sufficient contrast, all text is readable, and the mobile layout remains polished.
+
+Keep the existing website content, section order, functional WhatsApp links, forms, SEO metadata, responsive layouts, and Next.js implementation unchanged. Modify the visual theme only.
+
+Implement the colour palette through reusable CSS variables or Tailwind theme tokens so it can be maintained consistently throughout the project.
